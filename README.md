@@ -13,4 +13,5 @@ Apuntes de las clases:
 5. [Clase 6: Ejercicios de Arreglos (16-04-2022)](/Clases/16042022.md)
 6. [Clase 7: Ejercicios de Arreglos + arreglos multidimensionales (23-04-2022)](/Clases/23042022.md)
 7. [Clase 8: Ejercicios de Cadenas (30-04-2022)](/Clases/30042022.md)
+8. [Clase 9: Repaso Examen Final (07-05-2022)](/Clases/07052022.md)
 
